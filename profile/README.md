@@ -28,3 +28,13 @@ In the repositories linked below, the `student` branch contains the blank notebo
 21. [Regular expressions](https://github.com/sa463a-usna/lesson-regular-expressions)
 22. [Web scraping with Pandas](https://github.com/sa463a-usna/lesson-web-scraping)
 23. [Parting thoughts](https://github.com/sa463a-usna/lesson-parting-thoughts)
+
+
+## Projects
+
+1. [Higher education and future earnings](https://github.com/sa463a-usna/project-higher-ed)
+2. [Corruption and human development](https://github.com/sa463a-usna/project-corruption)
+3. [COVID-19 in the United States](https://github.com/sa463a-usna/project-covid-viz)
+4. [Exploring tracks on Spotify](https://github.com/sa463a-usna/project-spotify)
+5. [COVID-19 in the United States, revisited](https://github.com/sa463a-usna/project-covid-data)
+6. Exploring ordnance loading operations data

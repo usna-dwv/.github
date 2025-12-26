@@ -1,4 +1,4 @@
-# SA433 Data Wrangling and Visualization
+# SA234 Data Wrangling and Visualization
 
 ## Lessons
 
